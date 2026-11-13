@@ -1,0 +1,651 @@
+student_id,branch,year_of_study,cgpa,city,opening_type,industry,match_score,time_to_response_days,skill_gap_count,expected_stipend,github_linked,true_fit_score,Elite_Match
+STU1463,mechanical engineering,4,7.5,Nashik ,Internship,IT Services,46.6,1.2,0,17519.0,Yes,80.48,1
+STU1305,computer engineering,4,7.52,Hyderabad,Internship,Gaming,70.5,1.4,0,14434.0,yes,55.63,0
+STU1204,computer engineering,2,7.61,Ahmedabad ,Internship,Gaming,92.4,0.2,1,9745.0,yes,65.18,1
+STU1608,Comp Engg,4,9.53,Hyderabad,Open-Source Project,IT Services,58.4,2.3,1,14203.0,N,67.99,1
+STU1455,Mech Engg,2,7.8,Delhi,Internship,Gaming,69.0,1.7,0,13802.0,N,51.05,0
+STU1558,AI & Data Science,3,7.93,hyderabad,Internship,CleanTech,75.5,1.6,2,10559.0,Yes,53.74,0
+STU1262,CIVIL,4,7.63,NASHIK,Internship,E-commerce,55.9,0.2,2,10259.0,0,47.04,0
+STU1503,AI & DS ,2,7.54,pune,Internship,IT Services,69.5,3.0,4,13098.0,Yes,13.29,0
+STU1383,COMPUTER ENGINEERING ,3,5.87,Nashik ,Open-Source Project,E-commerce,75.5,4.5,4,10745.0,yes,43.6,0
+STU1320,COMPUTER ENGINEERING ,3,6.4,Hyderabad,Internship,Manufacturing,82.3,0.6,2,7242.0,Y,56.5,0
+STU1618,Electronics & Telecom,2,7.8,Nashik,Internship,E-commerce,75.9,3.7,0,13841.0,No,53.0,0
+STU1582,mechanical engineering,2,8.3,Kolkata,Open-Source Project,FinTech,68.0,0.6,1,11820.0,Yes,57.7,0
+STU1142,Info Tech,4,6.5, Kolkata,Internship,Gaming,71.7,0.7,2,12975.0,Yes,54.98,0
+STU1340,Computer Engineering,4,6.59,Nagpur ,Internship,Gaming,46.0,5.6,3,9261.0,no,20.82,0
+STU1153,COMPUTER ENGINEERING ,2,8.63,mumbai,Internship,Gaming,97.2,8.2,2,13431.0,0,53.55,0
+STU1409,electronics & telecom,2,7.58,pune,Internship,Logistics,88.2,3.3,1,9609.0,1,37.29,0
+STU1426,AI & DS ,3,7.71,ahmedabad,Open-Source Project,Healthcare,43.4,2.9,1,7256.0,yes,50.5,0
+STU1390,Electronics & Telecom,3,7.37,Chennai,Internship,Gaming,50.7,9.0,0,11565.0,no,43.68,0
+STU1496,ai & data science,2,6.3,Nashik,Internship,FinTech,85.9,10.0,1,8009.0,1,44.3,0
+STU1236,E&TC,4,7.47,Chennai,Open-Source Project,Manufacturing,76.0,6.5,1,11889.0,yes,27.94,0
+STU1289,mechanical engineering,4,8.01,nagpur,Internship,AgriTech,87.6,12.4875,2,13478.0,1,68.27,1
+STU1600,information technology,4,7.8,DELHI,Open-Source Project,AgriTech,79.9,5.9,2,9714.0,Y,50.1,0
+STU1115,electronics & telecom,4,6.58,Nagpur ,Internship,Manufacturing,78.6,2.6,3,4985.0,No,32.47,0
+STU1626,COMPUTER ENGINEERING ,3,6.92,Delhi,Internship,AgriTech,53.7,12.4875,3,10823.0,no,49.48,0
+STU1283,Civil Engineering,3,8.63,Pune ,Internship,EdTech,66.0,6.4,4,17733.0,N,40.29,0
+STU1571,COMPUTER ENGINEERING ,3,7.95,Mumbai ,Internship,CleanTech,70.5,1.7,2,7832.0,1,29.21,0
+STU1392,Mechanical Engineering,2,8.05, Bangalore,Internship,EdTech,96.4,7.2,3,11565.0,No,43.23,0
+STU1613,Info Tech,2,7.98,DELHI,Internship,E-commerce,87.7,1.2,1,11149.0,yes,30.96,0
+STU1057,Computer Engineering,4,8.69, Bangalore,Internship,E-commerce,71.5,12.4875,3,11565.0,Yes,51.17,0
+STU1193,COMPUTER ENGINEERING ,2,7.87,kolkata,Internship,CleanTech,55.1,3.1,0,14517.0,No,50.26,0
+STU1275,computer engineering,2,8.4,Hyderabad ,Open-Source Project,AgriTech,56.7,1.7,2,13074.0,Yes,39.94,0
+STU1235,civil engineering,2,6.74,Nagpur,Internship,Healthcare,72.1,1.4,2,4926.0,yes,59.02,0
+STU1284,mechanical engineering,3,8.97,kolkata,Open-Source Project,Gaming,45.1,4.9,2,7577.0,No,17.74,0
+STU1449,Electronics & Telecom,2,8.63,Bangalore ,Internship,EdTech,62.1,2.2,1,7773.0,Yes,62.97,1
+STU1641,information technology,2,7.93,Nashik,Internship,FinTech,77.4,1.2,1,860.75,No,24.43,0
+STU1411,Civil Engineering,3,8.74,NAGPUR,Internship,CleanTech,96.5,2.0,1,10031.0,Yes,59.93,0
+STU1573,AI/DS,3,7.78,Mumbai ,Open-Source Project,IT Services,73.7,12.4875,1,11565.0,0,24.51,0
+STU1159,Mechanical Engineering,4,6.38,nagpur,Open-Source Project,Gaming,78.0,4.0,1,6984.0,no,67.37,1
+STU1134,Mech Engg,3,4.67, Bangalore,Internship,E-commerce,71.7,3.6,2,5442.0,N,55.32,0
+STU1070,Civil Engineering,3,7.4,hyderabad,Internship,E-commerce,62.9,0.2,0,8738.0,Y,52.8,0
+STU1518,CIVIL,3,7.62,Nashik ,Internship,Gaming,82.1,1.4,0,11113.0,No,77.42,1
+STU1501,AI/DS,2,7.12, Ahmedabad,Internship,CleanTech,87.6,12.4875,2,11565.0,1,35.89,0
+STU1360,Comp Engg,3,7.86, Ahmedabad,Internship,CleanTech,60.4,1.4,1,5910.0,Y,58.95,0
+STU1155,Electronics & Telecom,4,7.32,DELHI,Internship,Manufacturing,69.6,3.2,1,11565.0,Yes,40.78,0
+STU1141,CIVIL,2,7.33,hyderabad,Open-Source Project,Gaming,93.5,4.6,1,11736.0,0,33.48,0
+STU1401,Mechanical Engineering,2,6.89,mumbai,Internship,E-commerce,64.4,9.5,1,6377.0,1,9.25,0
+STU1148,Information Technology,3,8.56,Delhi,Internship,E-commerce,60.2,1.5,1,11307.0,No,62.75,1
+STU1559,mechanical engineering,4,7.14,MUMBAI,Internship,Healthcare,68.1,4.3,3,13362.0,No,72.32,1
+STU1048,AI & DS ,4,8.97,Ahmedabad,Open-Source Project,FinTech,70.3,1.6,2,13296.0,0,62.75,1
+STU1508,Mech Engg,3,6.41,Ahmedabad,Internship,CleanTech,73.9,4.1,1,19883.0,0,44.34,0
+STU1470,mechanical engineering,2,7.71,PUNE,Internship,CleanTech,76.3,5.2,2,11481.0,Yes,75.98,1
+STU1382,IT,4,7.69, Pune,Internship,IT Services,74.9,1.8,3,16259.0,1,53.61,0
+STU1261,civil engineering,3,8.39,hyderabad,Internship,IT Services,68.0,2.5,2,8101.0,N,52.2,0
+STU1452,Information Technology,3,7.6,nagpur,Open-Source Project,E-commerce,82.9,1.6,0,11565.0,N,69.0,1
+STU1636,Information Technology,4,6.6,HYDERABAD,Open-Source Project,Logistics,71.7,8.9,3,13113.0,N,29.28,0
+STU1643,Mechanical Engineering,2,8.3,NASHIK,Internship,Manufacturing,64.9,4.7,2,5429.0,Y,39.91,0
+STU1649,IT,3,7.59,Nagpur ,Internship,AgriTech,85.0,1.1,3,10852.0,no,30.27,0
+STU1464,Info Tech,3,9.36,nashik,Open-Source Project,CleanTech,71.7,4.3,0,7191.0,no,71.35,1
+STU1316,mechanical engineering,4,7.97,Nashik ,Internship,Gaming,71.0,5.7,2,12813.0,no,46.25,0
+STU1248,AI/DS,3,8.59,KOLKATA,Open-Source Project,E-commerce,68.8,3.1,1,16153.0,N,78.19,1
+STU1424,mechanical engineering,4,7.43,hyderabad,Internship,Gaming,56.1,8.0,0,11874.0,yes,40.37,0
+STU1060,Civil Engineering,4,6.08,Bangalore ,Internship,EdTech,75.4,6.7,1,6719.0,Yes,11.74,0
+STU1545,E&TC,3,7.97,BANGALORE,Internship,Healthcare,65.5,5.5,2,17247.0,Yes,47.04,0
+STU1013,ai & data science,2,7.33,Mumbai,Internship,Healthcare,66.8,0.7,5,10292.0,yes,58.24,0
+STU1158,mechanical engineering,4,6.39,Chennai ,Open-Source Project,EdTech,100.0,5.2,3,14609.0,1,40.85,0
+STU1397,Mechanical Engineering,4,8.95,nagpur,Open-Source Project,Logistics,66.9,0.0,3,20440.0,1,45.9,0
+STU1252,mechanical engineering,3,7.14,Hyderabad ,Internship,FinTech,73.1,8.6,3,7750.0,N,14.51,0
+STU1586,Civil Engineering,2,7.1,Nagpur ,Internship,E-commerce,54.6,12.4875,2,10050.0,1,10.51,0
+STU1587,COMPUTER ENGINEERING ,3,8.28,Kolkata,Open-Source Project,EdTech,62.1,0.5,2,13974.0,N,49.94,0
+STU1446,Information Technology,3,6.81, Nagpur,Internship,E-commerce,74.5,12.4875,2,11565.0,Y,15.06,0
+STU1491,Civil Engineering,2,9.44,Chennai,Internship,Healthcare,59.0,4.7,1,14885.0,no,80.5,1
+STU1232,Computer Engineering,2,7.15,Mumbai,Internship,E-commerce,42.0,0.4,0,18053.0,no,49.76,0
+STU1606,COMPUTER ENGINEERING ,3,8.11,HYDERABAD,Internship,Healthcare,71.3,5.2,3,16464.0,no,47.8,0
+STU1109,Information Technology,2,7.8,Bangalore ,Internship,Manufacturing,50.8,3.2,1,19019.0,N,72.74,1
+STU1110,civil engineering,4,7.31,Delhi ,Internship,E-commerce,76.0,8.1,3,20620.0,0,63.77,1
+STU1327,computer engineering,4,6.58, Delhi,Open-Source Project,CleanTech,72.6,6.1,1,11565.0,No,41.64,0
+STU1138,civil engineering,3,7.8, Bangalore,Open-Source Project,Logistics,73.3,5.7,2,14431.0,Yes,53.32,0
+STU1418,ENTC,2,7.8,PUNE,Internship,Logistics,63.2,0.4,4,14518.0,No,53.26,0
+STU1574,electronics & telecom,4,6.52,pune,Open-Source Project,EdTech,62.2,6.8,2,7744.0,no,29.66,0
+STU1192,ai & data science,3,9.31,CHENNAI,Open-Source Project,E-commerce,76.3,2.5,0,14233.0,Yes,46.17,0
+STU1647,Mech Engg,2,8.43,Hyderabad,Internship,CleanTech,44.2,0.0,2,12129.0,Yes,57.93,0
+STU1324,mechanical engineering,3,7.78,pune,Internship,EdTech,66.1,12.4875,2,14861.0,yes,49.2,0
+STU1376,COMPUTER ENGINEERING ,3,8.07,Mumbai ,Internship,Healthcare,80.8,6.2,2,9576.0,Y,55.11,0
+STU1053,mechanical engineering,4,7.98,MUMBAI,Internship,Gaming,62.9,0.4,2,11565.0,Y,38.36,0
+STU1098,CIVIL,3,8.57, Kolkata,Internship,Manufacturing,36.749999999999986,10.1,1,10656.0,Y,33.11,0
+STU1228,Information Technology,4,8.0,AHMEDABAD,Internship,Logistics,84.0,2.0,2,5897.0,0,45.26,0
+STU1099,ai & data science,2,9.3,Chennai ,Open-Source Project,Gaming,53.1,0.8,1,11403.0,no,55.2,0
+STU1239,Computer Engineering,2,7.0,Delhi ,Open-Source Project,AgriTech,66.6,2.9,3,11565.0,Yes,58.23,0
+STU1022,Information Technology,3,7.8,BANGALORE,Open-Source Project,Healthcare,78.3,4.3,3,13039.0,yes,68.73,1
+STU1371,COMPUTER ENGINEERING ,2,7.36, Bangalore,Internship,EdTech,96.2,4.1,1,17525.0,Yes,73.26,1
+STU1479,AI & DS ,4,7.56,NAGPUR,Internship,E-commerce,59.4,6.8,1,9151.0,No,50.73,0
+STU1370,computer engineering,3,7.78, Mumbai,Open-Source Project,Gaming,67.4,0.4,3,11565.0,Yes,57.17,0
+STU1191,ENTC,3,8.43, Nagpur,Internship,EdTech,75.0,3.0,1,15334.0,Yes,61.69,0
+STU1540,civil engineering,3,9.69,CHENNAI,Open-Source Project,FinTech,93.9,0.9,1,16818.0,0,77.95,1
+STU1306,Comp Engg,3,8.39,,Open-Source Project,FinTech,84.1,0.2,0,5569.0,Yes,58.66,0
+STU1557,computer engineering,4,6.8,Nagpur,Open-Source Project,Manufacturing,64.3,7.8,2,14869.0,0,36.46,0
+STU1352,COMPUTER ENGINEERING ,4,8.31,Ahmedabad,Internship,EdTech,71.6,0.2,1,16207.0,no,97.53,1
+STU1552,Electronics & Telecom,2,7.83,HYDERABAD,Internship,AgriTech,71.7,10.9,2,8056.0,0,49.51,0
+STU1200,Mechanical Engineering,3,8.28,Chennai ,Open-Source Project,Manufacturing,56.5,1.7,3,21859.0,0,45.03,0
+STU1280,AI & DS ,2,8.44,bangalore,Internship,FinTech,73.5,3.8,2,7425.0,1,43.78,0
+STU1450,IT,4,6.16, Ahmedabad,Internship,EdTech,71.7,2.7,1,7163.0,1,32.09,0
+STU1387,Info Tech,2,7.29, Mumbai,Internship,Gaming,71.7,2.9,1,13780.0,Yes,59.49,0
+STU1179,IT,2,8.3,Nashik,Internship,Manufacturing,44.6,1.3,2,11606.0,Y,51.38,0
+STU1074,COMPUTER ENGINEERING ,3,8.57,KOLKATA,Internship,Manufacturing,55.2,9.0,2,18095.0,Y,22.3,0
+STU1388,ai & data science,3,8.78,nagpur,Internship,FinTech,85.8,0.8,1,11565.0,0,75.68,1
+STU1222,CIVIL,3,8.16,Chennai,Internship,Healthcare,60.2,6.8,0,16953.0,yes,47.35,0
+STU1333,ai & data science,2,7.81,NAGPUR,Internship,EdTech,82.6,2.5,2,9529.0,Y,74.5,1
+STU1336,Mech Engg,4,7.82,NASHIK,Internship,Gaming,78.6,12.4875,1,19217.0,Y,50.65,0
+STU1521,information technology,2,7.07,Delhi,Open-Source Project,FinTech,76.5,3.5,5,1871.0,no,51.73,0
+STU1528,IT,3,5.16,Chennai,Internship,EdTech,100.8,1.9,1,9089.0,No,45.44,0
+STU1422,Civil Engineering,2,6.27,bangalore,Internship,FinTech,63.1,6.4,1,10051.0,1,34.25,0
+STU1054,AI & DS ,4,10.62, Delhi,Internship,EdTech,71.7,0.3,2,10790.0,0,72.73,1
+STU1549,electronics & telecom,3,6.47,Chennai,Internship,Manufacturing,77.2,12.4875,1,12795.0,Y,52.57,0
+STU1473,Comp Engg,2,7.55,kolkata,Open-Source Project,CleanTech,92.4,9.1,0,10096.0,Y,64.91,1
+STU1046,Mech Engg,2,8.47,Delhi ,Open-Source Project,EdTech,79.2,12.4875,1,9323.0,Y,28.35,0
+STU1300,Information Technology,3,8.81, Chennai,Internship,Healthcare,71.7,4.7,0,8113.0,no,63.8,1
+STU1277,Information Technology,4,7.31,delhi,Internship,IT Services,62.8,1.2,0,12587.0,0,58.15,0
+STU1304,Mech Engg,3,7.65,Chennai,Internship,FinTech,58.8,2.1,0,11565.0,No,50.03,0
+STU1536,AI & DS ,4,8.25,Mumbai,Open-Source Project,Manufacturing,71.7,1.6,2,13739.0,1,46.4,0
+STU1377,electronics & telecom,3,9.35,NASHIK,Internship,IT Services,78.1,0.3,2,12736.0,Yes,90.61,1
+STU1176,electronics & telecom,4,5.55,Mumbai,Internship,EdTech,104.4,12.4875,1,17781.0,1,39.25,0
+STU1202,Information Technology,3,8.26,Ahmedabad ,Internship,CleanTech,70.8,2.9,1,8242.0,0,43.28,0
+STU1389,AI/DS,3,8.63,Hyderabad,Internship,IT Services,73.8,0.5,1,8332.0,yes,71.42,1
+STU1140,AI & Data Science,2,6.17,Mumbai ,Internship,FinTech,84.5,3.9,0,13468.0,Yes,58.1,0
+STU1480,Civil Engineering,3,8.56,Chennai,Internship,Logistics,64.5,0.3,0,11565.0,N,64.55,1
+STU1365,AI & DS ,2,7.21,Ahmedabad ,Internship,Logistics,43.8,2.9,3,11487.0,No,43.65,0
+STU1468,electronics & telecom,4,8.88,Ahmedabad,Open-Source Project,CleanTech,72.1,2.3,2,11773.0,Yes,64.23,1
+STU1132,civil engineering,4,8.29,Nagpur ,Open-Source Project,E-commerce,86.3,3.2,0,5005.0,Y,69.32,1
+STU1504,Computer Engineering,3,9.31,Nashik ,Open-Source Project,FinTech,55.8,4.6,1,8332.0,Y,67.33,1
+STU1055,Mechanical Engineering,3,7.8,chennai,Open-Source Project,AgriTech,74.8,5.5,2,8691.0,1,50.17,0
+STU1361,ENTC,4,8.8,NASHIK,Internship,Logistics,59.7,6.1,1,11393.0,Yes,42.6,0
+STU1343,Computer Engineering,4,8.42,delhi,Internship,FinTech,46.9,3.5,2,19933.0,N,43.38,0
+STU1423,Electronics & Telecom,2,7.48,delhi,Internship,Gaming,90.5,0.3,0,7445.0,N,59.36,0
+STU1577,ENTC,3,8.06,Nashik,Internship,CleanTech,72.7,0.3,2,11565.0,Y,58.92,0
+STU1273,CIVIL,2,5.94,BANGALORE,Open-Source Project,FinTech,47.4,0.9,1,15040.0,yes,26.31,0
+STU1482,E&TC,2,7.07,Delhi ,Internship,Manufacturing,49.8,0.1,1,11565.0,yes,21.23,0
+STU1108,AI & DS ,2,6.3,Nagpur ,Internship,Manufacturing,96.5,8.9,2,17263.0,no,47.19,0
+STU1640,Computer Engineering,3,6.91,Ahmedabad ,Open-Source Project,E-commerce,55.5,2.1,1,8824.0,0,25.17,0
+STU1329,Mechanical Engineering,2,7.85,PUNE,Internship,AgriTech,51.1,0.9,0,11565.0,1,27.89,0
+STU1003,ai & data science,3,6.53,Mumbai,Internship,E-commerce,60.6,2.9,1,14390.0,N,51.92,0
+STU1296,Civil Engineering,3,7.79,Nagpur,Open-Source Project,EdTech,75.9,8.1,1,8377.0,no,37.11,0
+STU1101,E&TC,4,8.27,nashik,Internship,Healthcare,66.0,0.4,3,7573.0,Y,54.31,0
+STU1354,Info Tech,4,8.53,Mumbai,Internship,FinTech,68.9,4.7,2,9856.0,1,41.83,0
+STU1259,CIVIL,4,8.27, Mumbai,Internship,Logistics,83.1,4.7,1,6616.0,Y,40.13,0
+STU1052,Mech Engg,2,8.35,Kolkata,Internship,EdTech,90.4,0.4,0,10266.0,Y,54.78,0
+STU1017,ENTC,2,7.78,delhi,Internship,IT Services,71.5,12.4875,0,10269.0,N,38.09,0
+STU1220,IT,2,7.99,hyderabad,Open-Source Project,Gaming,67.5,4.2,2,15350.0,Y,46.14,0
+STU1146,Civil Engineering,4,8.44,Ahmedabad,Internship,AgriTech,80.8,7.5,2,16996.0,N,41.32,0
+STU1050,ai & data science,3,8.49,Ahmedabad ,Internship,Healthcare,80.0,6.2,0,9203.0,N,56.77,0
+STU1607,Computer Engineering,3,9.16,KOLKATA,Internship,EdTech,104.95,1.6,1,7506.0,0,51.53,0
+STU1367,Electronics & Telecom,4,7.8,NAGPUR,Internship,CleanTech,46.4,1.3,3,11565.0,0,38.85,0
+STU1399,ENTC,4,9.17,CHENNAI,Internship,EdTech,63.4,8.8,4,10082.0,yes,8.84,0
+STU1221,information technology,3,7.07, Delhi,Internship,Healthcare,77.4,6.0,1,11565.0,yes,46.32,0
+STU1168,ENTC,2,8.8, Pune,Internship,Logistics,54.4,0.9,2,9504.0,N,61.3,0
+STU1229,Computer Engineering,4,8.94,,Internship,Healthcare,72.7,2.6,1,8656.0,N,76.38,1
+STU1568,Info Tech,4,6.9,ahmedabad,Open-Source Project,IT Services,97.4,2.5,1,3926.0,0,81.09,1
+STU1030,Civil Engineering,4,6.97, Nashik,Open-Source Project,Gaming,62.3,3.3,3,12232.0,yes,14.78,0
+STU1217,ENTC,4,6.97, Delhi,Open-Source Project,IT Services,76.8,0.2,3,20660.0,No,62.98,1
+STU1117,Electronics & Telecom,2,7.8,Bangalore,Open-Source Project,Gaming,69.5,4.7,1,19083.0,no,73.87,1
+STU1619,Electronics & Telecom,3,7.98,HYDERABAD,Internship,IT Services,73.3,5.8,3,7959.0,Y,54.81,0
+STU1116,Information Technology,2,8.35, Chennai,Open-Source Project,E-commerce,47.2,0.2,2,10591.0,Y,34.35,0
+STU1358,AI & DS ,3,8.43,Mumbai ,Internship,Logistics,76.3,0.8,2,10084.0,0,63.49,1
+STU1541,AI/DS,3,7.24,Hyderabad,Internship,EdTech,71.7,3.4,3,7690.0,0,66.55,1
+STU1027,Info Tech,2,7.11, Nashik,Open-Source Project,FinTech,68.8,8.9,3,13364.0,Yes,11.16,0
+STU1498,AI & DS ,2,7.01,Bangalore,Internship,Logistics,59.3,4.3,2,8381.0,Y,44.93,0
+STU1051,Mech Engg,3,7.79,Chennai,Internship,Logistics,84.6,1.7,0,11411.0,Y,82.88,1
+STU1378,Info Tech,2,7.82,Ahmedabad,Internship,Gaming,41.2,0.2,2,10027.0,yes,32.53,0
+STU1186,Information Technology,2,8.37,Chennai ,Internship,IT Services,76.2,1.0,0,12175.0,No,76.65,1
+STU1339,Information Technology,3,7.74, Bangalore,Internship,FinTech,58.1,1.4,3,11565.0,Y,26.74,0
+STU1569,Information Technology,3,7.93,Nashik,Open-Source Project,AgriTech,70.0,10.1,1,12084.0,Y,33.46,0
+STU1466,E&TC,3,8.12,ahmedabad,Internship,EdTech,66.2,10.9,3,12809.0,no,22.16,0
+STU1534,AI & DS ,3,7.8,hyderabad,Internship,Healthcare,66.8,0.8,3,8410.0,no,47.63,0
+STU1242,Mech Engg,2,6.6,Nagpur,Internship,FinTech,104.95,12.4875,1,11565.0,0,45.72,0
+STU1058,ai & data science,3,8.59,Nashik ,Open-Source Project,CleanTech,72.8,12.4875,3,6188.0,N,46.66,0
+STU1188,CIVIL,3,6.51,pune,Internship,IT Services,41.3,2.9,2,13210.0,1,20.09,0
+STU1459,Mechanical Engineering,4,7.8, Mumbai,Internship,Logistics,71.7,2.9,1,3054.0,no,48.66,0
+STU1526,Info Tech,2,9.06,CHENNAI,Internship,Manufacturing,78.3,3.0,1,11553.0,Y,78.16,1
+STU1097,AI/DS,3,8.78,kolkata,Internship,E-commerce,61.2,1.6,1,11466.0,yes,66.78,1
+STU1165,AI/DS,2,7.3,mumbai,Internship,AgriTech,80.9,0.2,0,12207.0,Y,46.17,0
+STU1610,Mechanical Engineering,3,8.34,Nagpur ,Internship,E-commerce,66.5,0.0,2,21563.0,No,70.94,1
+STU1471,AI/DS,4,8.32,chennai,Internship,E-commerce,71.1,4.3,1,10654.0,no,48.38,0
+STU1581,Information Technology,3,7.89,nashik,Internship,Gaming,62.4,1.3,3,11621.0,N,50.44,0
+STU1457,E&TC,4,8.73,pune,Internship,Gaming,71.7,1.7,2,17303.0,no,64.6,1
+STU1023,COMPUTER ENGINEERING ,3,8.5,nagpur,Internship,Logistics,89.5,9.1,3,8531.0,0,62.27,0
+STU1431,Comp Engg,3,8.58,ahmedabad,Open-Source Project,Logistics,73.3,0.8,1,7610.0,Yes,62.55,1
+STU1414,AI & Data Science,4,7.8,bangalore,Internship,AgriTech,50.8,4.7,2,13616.0,0,14.47,0
+STU1605,mechanical engineering,2,8.49,Pune,Internship,IT Services,64.5,3.0,2,9180.0,No,29.93,0
+STU1154,CIVIL,4,8.99,Mumbai,Internship,EdTech,73.0,2.9,3,7873.0,no,60.5,0
+STU1575,mechanical engineering,2,7.09,bangalore,Internship,EdTech,43.4,2.2,3,13886.0,yes,30.13,0
+STU1209,Mechanical Engineering,2,7.97, Bangalore,Internship,EdTech,55.1,3.2,2,11876.0,no,61.65,0
+STU1453,electronics & telecom,2,8.26,Nagpur ,Internship,Gaming,53.0,0.5,1,11565.0,0,58.64,0
+STU1384,AI & Data Science,2,6.91,bangalore,Internship,FinTech,78.0,2.9,1,15903.0,Y,44.61,0
+STU1066,E&TC,2,9.14,Mumbai,Open-Source Project,FinTech,83.2,1.0,0,5076.0,Yes,86.37,1
+STU1447,AI & DS ,4,7.46,NASHIK,Open-Source Project,FinTech,77.0,9.4,2,18084.0,Y,32.97,0
+STU1307,ENTC,2,7.11,Ahmedabad,Internship,Manufacturing,83.1,10.6,2,9480.0,No,8.53,0
+STU1002,mechanical engineering,3,5.45,mumbai,Internship,FinTech,84.3,1.4,1,8367.0,Y,78.12,1
+STU1256,Mechanical Engineering,4,7.29,hyderabad,Internship,IT Services,63.8,1.7,2,5926.0,Y,15.61,0
+STU1037,mechanical engineering,3,8.57,NASHIK,Open-Source Project,Manufacturing,71.7,0.8,0,18645.0,0,80.85,1
+STU1082,CIVIL,3,8.05,Nashik,Open-Source Project,Manufacturing,36.749999999999986,1.1,0,5902.0,0,62.41,0
+STU1272,E&TC,2,7.4,MUMBAI,Internship,E-commerce,36.9,2.9,0,11119.0,Y,47.9,0
+STU1621,Mechanical Engineering,3,7.17,AHMEDABAD,Open-Source Project,EdTech,78.4,0.2,1,6703.0,N,31.18,0
+STU1462,mechanical engineering,3,7.96,delhi,Internship,AgriTech,77.3,0.4,1,16636.0,0,79.57,1
+STU1635,Computer Engineering,4,7.15,Mumbai ,Internship,FinTech,46.9,0.7,2,11357.0,Yes,20.25,0
+STU1351,electronics & telecom,3,6.25,NAGPUR,Internship,Gaming,71.3,4.9,0,8766.0,yes,28.2,0
+STU1038,COMPUTER ENGINEERING ,2,9.39,nashik,Internship,Healthcare,76.1,4.3,2,20488.0,1,57.97,0
+STU1625,ai & data science,4,8.49,bangalore,Internship,CleanTech,78.9,2.9,0,9640.0,Yes,77.01,1
+STU1270,CIVIL,3,6.89, Delhi,Internship,EdTech,81.7,2.9,0,10973.0,0,63.35,1
+STU1627,Mech Engg,4,9.02,Nashik,Internship,FinTech,59.9,5.6,2,7622.0,Y,58.13,0
+STU1010,information technology,4,8.55, Kolkata,Internship,Gaming,74.4,2.6,0,15891.0,yes,61.78,0
+STU1063,IT,4,7.75,Hyderabad,Internship,IT Services,70.1,5.9,2,12187.0,0,43.01,0
+STU1032,mechanical engineering,4,8.07, Nashik,Open-Source Project,AgriTech,73.9,9.8,2,17323.0,yes,29.21,0
+STU1278,AI & Data Science,3,7.16,CHENNAI,Internship,Logistics,75.1,1.9,1,11155.0,N,49.92,0
+STU1408,civil engineering,2,8.48, Nagpur,Open-Source Project,Logistics,79.2,7.8,2,7933.0,Y,55.99,0
+STU1570,Comp Engg,2,6.53,Hyderabad ,Open-Source Project,Gaming,63.9,0.0,3,13286.0,yes,36.78,0
+STU1485,Computer Engineering,3,7.17,Bangalore ,Internship,IT Services,52.0,0.3,1,15574.0,no,58.14,0
+STU1025,E&TC,3,6.7,Nashik ,Internship,EdTech,52.1,5.0,1,11565.0,0,31.32,0
+STU1407,computer engineering,4,7.54, Delhi,Internship,CleanTech,71.7,1.1,1,13264.0,Yes,49.04,0
+STU1120,IT,3,8.19,Pune,Internship,Logistics,73.1,0.8,2,7675.0,Y,54.3,0
+STU1598,IT,4,7.0, Delhi,Internship,Logistics,36.749999999999986,9.1,2,7856.0,N,19.78,0
+STU1318,electronics & telecom,3,7.3,Bangalore ,Internship,CleanTech,51.7,1.8,0,10187.0,no,60.21,0
+STU1630,Mechanical Engineering,3,7.55,chennai,Internship,Logistics,71.5,1.8,2,13024.0,Y,54.03,0
+STU1404,mechanical engineering,3,8.22,Bangalore ,Internship,IT Services,49.5,2.9,4,11565.0,no,59.88,0
+STU1271,computer engineering,3,5.64,KOLKATA,Internship,E-commerce,71.8,5.4,2,14205.0,yes,33.84,0
+STU1285,Mech Engg,4,7.61,Nagpur,Internship,Manufacturing,55.5,2.9,2,10279.0,N,39.57,0
+STU1089,electronics & telecom,3,7.04,Nashik ,Internship,FinTech,71.7,1.9,3,11123.0,Y,27.42,0
+STU1213,Information Technology,4,7.86, Hyderabad,Internship,CleanTech,100.2,0.2,0,12546.0,no,75.76,1
+STU1065,information technology,3,7.13,Hyderabad,Internship,Manufacturing,71.7,7.6,3,18205.0,N,48.71,0
+STU1441,COMPUTER ENGINEERING ,3,8.48,Kolkata,Internship,EdTech,81.1,2.0,0,11565.0,Y,57.89,0
+STU1395,COMPUTER ENGINEERING ,3,7.99,Nashik ,Internship,Gaming,65.6,12.4875,1,17384.0,N,42.85,0
+STU1632,AI & DS ,4,7.34,Pune ,Internship,E-commerce,73.7,7.9,1,3205.0,Yes,52.15,0
+STU1335,mechanical engineering,3,8.22,Chennai,Internship,IT Services,59.3,3.9,1,12628.0,Y,50.49,0
+STU1612,civil engineering,4,7.16,Nashik,Open-Source Project,Manufacturing,60.9,2.8,1,8060.0,N,38.84,0
+STU1244,Electronics & Telecom,4,7.8,Delhi,Open-Source Project,FinTech,71.3,2.5,1,10206.0,Yes,69.26,1
+STU1064,mechanical engineering,3,6.57,bangalore,Internship,Healthcare,78.0,4.5,1,13329.0,yes,51.36,0
+STU1187,IT,3,7.67,bangalore,Internship,CleanTech,46.9,2.0,3,13071.0,Y,43.75,0
+STU1417,Computer Engineering,3,7.52,,Internship,E-commerce,75.8,3.5,1,11182.0,Y,71.39,1
+STU1560,Mechanical Engineering,4,8.16,KOLKATA,Internship,E-commerce,59.2,5.4,1,11741.0,Yes,65.98,1
+STU1040,information technology,2,8.2,Chennai ,Internship,FinTech,81.6,2.6,0,860.75,0,55.36,0
+STU1281,Electronics & Telecom,2,7.9, Hyderabad,Internship,E-commerce,71.7,2.7,1,9417.0,Yes,47.36,0
+STU1439,E&TC,4,9.35,,Internship,AgriTech,46.7,0.2,1,10794.0,N,62.21,0
+STU1172,Electronics & Telecom,4,8.7,DELHI,Open-Source Project,E-commerce,71.7,6.1,3,16757.0,N,46.34,0
+STU1321,Civil Engineering,4,9.28, Ahmedabad,Internship,Gaming,71.7,2.9,1,11407.0,Y,35.35,0
+STU1249,civil engineering,3,8.25,Nagpur ,Internship,Logistics,71.7,1.4,4,6246.0,Y,60.32,0
+STU1588,Info Tech,2,6.8, Kolkata,Internship,FinTech,87.2,0.2,1,9104.0,N,58.56,0
+STU1240,IT,3,5.62,Nagpur ,Internship,AgriTech,83.3,1.7,1,12988.0,1,61.51,0
+STU1458,Comp Engg,2,7.74,Chennai ,Internship,FinTech,57.2,2.6,1,16801.0,0,36.29,0
+STU1308,Civil Engineering,3,8.37,chennai,Internship,Manufacturing,51.4,12.4875,1,8581.0,No,54.24,0
+STU1525,electronics & telecom,3,8.32,PUNE,Open-Source Project,Healthcare,71.7,3.4,0,6894.0,1,51.22,0
+STU1245,mechanical engineering,3,9.61,hyderabad,Open-Source Project,Gaming,79.3,0.3,2,20229.0,No,69.63,1
+STU1056,E&TC,2,7.49,HYDERABAD,Internship,Logistics,76.9,12.4875,0,12278.0,Yes,26.74,0
+STU1543,AI/DS,2,7.59,Chennai ,Open-Source Project,CleanTech,79.6,2.9,1,12492.0,1,55.24,0
+STU1071,Electronics & Telecom,2,7.3,HYDERABAD,Internship,Gaming,68.4,0.9,1,7859.0,0,49.11,0
+STU1487,mechanical engineering,3,9.39, Nagpur,Open-Source Project,E-commerce,80.7,7.6,0,4467.0,no,58.34,0
+STU1145,Civil Engineering,3,7.59,Pune,Open-Source Project,FinTech,68.8,12.4875,0,16469.0,0,53.56,0
+STU1090,IT,4,6.47,HYDERABAD,Internship,AgriTech,87.2,2.9,4,10162.0,N,38.94,0
+STU1166,electronics & telecom,3,7.63,Chennai ,Internship,Healthcare,76.7,2.8,0,12557.0,Y,76.3,1
+STU1330,civil engineering,3,8.15,bangalore,Internship,EdTech,91.2,0.6,2,7319.0,1,53.24,0
+STU1170,ENTC,4,7.4, Kolkata,Internship,Gaming,71.0,10.7,2,7641.0,No,19.92,0
+STU1597,ai & data science,2,9.26, Delhi,Internship,AgriTech,85.1,2.6,0,8620.0,yes,71.31,1
+STU1565,electronics & telecom,4,7.8,Kolkata ,Internship,IT Services,54.7,0.0,2,10788.0,Y,57.25,0
+STU1243,AI & Data Science,4,7.07,NAGPUR,Internship,Gaming,85.3,0.5,2,22146.75,1,79.07,1
+STU1087,Electronics & Telecom,2,8.33,,Internship,Logistics,75.9,4.4,1,10316.0,N,68.63,1
+STU1214,CIVIL,4,7.08,Nashik ,Internship,E-commerce,89.5,1.4,2,10194.0,No,28.65,0
+STU1173,ai & data science,4,6.7, Nashik,Internship,Manufacturing,80.8,2.3,1,14541.0,Yes,61.01,0
+STU1515,COMPUTER ENGINEERING ,2,7.92,Pune,Internship,Manufacturing,104.95,3.5,1,9830.0,No,87.29,1
+STU1118,civil engineering,4,8.37,chennai,Internship,Gaming,84.6,1.3,1,6722.0,No,63.46,1
+STU1119,civil engineering,3,7.6, Delhi,Internship,E-commerce,75.7,6.6,3,14442.0,No,34.42,0
+STU1381,ENTC,2,6.79,MUMBAI,Internship,FinTech,104.95,1.8,3,16978.0,no,61.09,0
+STU1346,information technology,4,5.46,pune,Internship,IT Services,71.7,2.9,2,14720.0,N,32.68,0
+STU1609,ai & data science,4,7.62,nashik,Internship,FinTech,39.0,5.3,-1,12113.0,1,59.08,0
+STU1319,information technology,4,9.11,Nagpur,Internship,Manufacturing,64.1,4.3,2,11565.0,0,52.23,0
+STU1328,ai & data science,3,7.71,pune,Internship,Manufacturing,45.4,5.5,1,14148.0,Y,63.56,1
+STU1162,Mechanical Engineering,3,7.38,Mumbai,Internship,Gaming,75.2,12.4875,1,3619.0,1,43.25,0
+STU1114,AI & DS ,2,7.49,Chennai ,Internship,AgriTech,73.0,3.7,1,8307.0,No,40.71,0
+STU1150,Information Technology,3,7.56,ahmedabad,Internship,Manufacturing,64.0,12.4875,0,21608.0,No,57.05,0
+STU1291,ai & data science,2,7.31, Chennai,Open-Source Project,EdTech,51.1,12.4875,1,8539.0,no,43.47,0
+STU1592,computer engineering,4,6.81,Kolkata ,Internship,IT Services,47.8,5.7,3,11038.0,Yes,19.0,0
+STU1031,ENTC,4,6.77,CHENNAI,Internship,Logistics,83.1,4.8,1,16264.0,no,47.84,0
+STU1344,CIVIL,3,7.63,Delhi ,Open-Source Project,AgriTech,83.8,6.1,2,6990.0,Yes,12.94,0
+STU1020,Comp Engg,4,6.91,PUNE,Internship,FinTech,61.5,0.2,2,5797.0,No,55.92,0
+STU1113,electronics & telecom,3,9.21, Hyderabad,Internship,CleanTech,42.4,2.9,0,6881.0,N,46.14,0
+STU1433,ai & data science,3,7.34,Nashik,Open-Source Project,CleanTech,71.7,7.5,1,8620.0,N,13.74,0
+STU1000,AI/DS,3,6.8,MUMBAI,Internship,IT Services,74.8,0.7,0,13116.0,1,34.72,0
+STU1294,CIVIL,4,8.03,hyderabad,Open-Source Project,FinTech,77.0,3.0,1,10552.0,Yes,54.53,0
+STU1445,Mechanical Engineering,2,7.08,chennai,Internship,Manufacturing,84.9,11.0,0,10134.0,No,59.89,0
+STU1258,Info Tech,3,8.88,Nashik,Internship,IT Services,53.2,0.3,0,10391.0,Y,61.33,0
+STU1644,AI & Data Science,3,5.65,Delhi ,Internship,FinTech,82.7,0.7,4,11565.0,N,43.08,0
+STU1564,Comp Engg,3,7.87,NASHIK,Internship,E-commerce,72.8,4.0,1,11438.0,yes,38.46,0
+STU1472,information technology,4,8.2,kolkata,Open-Source Project,IT Services,52.7,1.0,1,7352.0,No,31.57,0
+STU1394,information technology,2,7.55,Ahmedabad,Internship,CleanTech,84.1,2.9,1,9573.0,Y,70.3,1
+STU1004,AI/DS,3,7.26,MUMBAI,Internship,EdTech,84.2,0.4,2,9865.0,No,61.85,0
+STU1323,Mechanical Engineering,2,6.78, Chennai,Internship,Healthcare,66.6,2.7,1,8022.0,No,46.14,0
+STU1420,Civil Engineering,3,8.11,hyderabad,Open-Source Project,Manufacturing,74.6,11.1,0,9334.0,no,68.57,1
+STU1297,Mech Engg,4,7.21,Kolkata ,Internship,FinTech,71.7,2.7,3,2321.0,yes,23.41,0
+STU1080,Comp Engg,3,8.04,,Internship,EdTech,69.2,0.5,4,14003.0,0,39.38,0
+STU1533,AI & DS ,2,7.51,NAGPUR,Internship,Manufacturing,54.8,0.4,3,9939.0,Yes,55.45,0
+STU1026,AI & DS ,4,7.8,mumbai,Internship,E-commerce,71.7,4.3,1,6520.0,1,77.27,1
+STU1372,COMPUTER ENGINEERING ,2,8.06, Pune,Internship,Gaming,66.5,5.4,0,8864.0,Yes,54.92,0
+STU1216,electronics & telecom,2,8.35,hyderabad,Internship,FinTech,89.7,1.9,0,13124.0,N,96.55,1
+STU1513,Mechanical Engineering,2,5.88,hyderabad,Internship,Healthcare,39.0,2.0,0,9256.0,no,30.09,0
+STU1527,Civil Engineering,2,7.08,BANGALORE,Internship,AgriTech,62.2,2.0,0,9807.0,Yes,58.47,0
+STU1467,Mech Engg,3,9.27, Kolkata,Internship,Gaming,94.4,7.0,0,9989.0,N,66.79,1
+STU1147,IT,3,8.24,MUMBAI,Internship,FinTech,59.9,0.9,1,19203.0,no,37.65,0
+STU1014,Civil Engineering,4,7.8,MUMBAI,Internship,IT Services,72.6,9.1,1,10431.0,Y,49.81,0
+STU1174,AI & Data Science,3,6.65,Mumbai ,Internship,Healthcare,45.3,4.8,1,9444.0,No,49.66,0
+STU1086,E&TC,2,8.24, Mumbai,Internship,Manufacturing,93.7,7.4,0,9621.0,No,60.77,0
+STU1585,Computer Engineering,2,8.99,chennai,Internship,EdTech,88.6,1.9,0,13519.0,Y,74.22,1
+STU1059,AI & Data Science,2,8.51, Mumbai,Internship,Healthcare,38.1,3.5,0,9896.0,yes,70.67,1
+STU1578,Mechanical Engineering,2,9.21,nashik,Internship,Manufacturing,71.0,10.9,-1,8026.0,no,40.73,0
+STU1164,mechanical engineering,2,7.51,NAGPUR,Internship,Gaming,101.2,7.4,3,11565.0,N,25.93,0
+STU1507,civil engineering,3,6.92,Nashik,Internship,EdTech,57.2,0.2,0,12341.0,Y,45.6,0
+STU1292,AI/DS,3,7.65, Bangalore,Open-Source Project,Healthcare,53.4,3.9,1,16403.0,no,32.0,0
+STU1041,Info Tech,2,6.88,Nagpur,Internship,CleanTech,40.1,3.8,1,6799.0,0,54.97,0
+STU1403,E&TC,4,8.6,chennai,Open-Source Project,Gaming,48.7,1.3,0,16420.0,0,66.06,1
+STU1079,Information Technology,2,7.24,bangalore,Internship,Healthcare,61.1,0.8,1,8544.0,1,37.49,0
+STU1442,Electronics & Telecom,2,7.89, Nagpur,Internship,Gaming,89.4,6.0,1,14021.0,1,50.12,0
+STU1028,IT,3,8.36,Delhi,Internship,Logistics,57.1,1.3,0,7716.0,no,100.0,1
+STU1001,Civil Engineering,4,8.71, Hyderabad,Internship,Healthcare,63.0,0.8,0,14170.0,N,57.77,0
+STU1368,mechanical engineering,2,7.61,nagpur,Internship,CleanTech,74.2,3.5,2,12175.0,N,38.64,0
+STU1511,mechanical engineering,4,7.66,CHENNAI,Internship,CleanTech,54.6,4.5,2,16920.0,N,48.7,0
+STU1379,ENTC,3,9.1,Nagpur,Internship,Logistics,59.5,2.9,0,10030.0,yes,71.31,1
+STU1313,Computer Engineering,3,7.02,,Internship,Manufacturing,65.9,1.3,2,8889.0,Yes,48.28,0
+STU1084,AI/DS,3,7.26,bangalore,Open-Source Project,E-commerce,81.4,4.6,2,4919.0,Y,31.51,0
+STU1062,Comp Engg,3,8.11,hyderabad,Internship,CleanTech,71.7,7.4,2,11565.0,1,28.53,0
+STU1440,Mech Engg,3,7.07,Pune ,Open-Source Project,Logistics,61.8,1.9,3,9076.0,N,46.71,0
+STU1136,AI & Data Science,4,7.65,MUMBAI,Internship,EdTech,72.2,1.6,1,13673.0,Yes,57.13,0
+STU1111,computer engineering,2,8.41,Mumbai ,Internship,Healthcare,72.6,12.4875,1,11264.0,1,20.85,0
+STU1194,AI & Data Science,3,7.14,hyderabad,Open-Source Project,AgriTech,88.5,4.4,2,7630.0,No,65.54,1
+STU1551,mechanical engineering,3,7.8,bangalore,Internship,FinTech,81.7,5.7,1,8836.0,Y,64.64,1
+STU1043,Mechanical Engineering,2,7.26,DELHI,Internship,E-commerce,79.7,3.4,2,12504.0,0,46.7,0
+STU1639,ENTC,4,6.39,Kolkata,Internship,Healthcare,71.7,2.4,2,14244.0,no,41.51,0
+STU1520,E&TC,3,8.79,Hyderabad ,Internship,Manufacturing,76.5,6.1,2,14238.0,1,57.45,0
+STU1293,Computer Engineering,3,9.56, Hyderabad,Internship,Healthcare,63.3,0.2,2,6896.0,no,47.78,0
+STU1129,mechanical engineering,4,7.3,Delhi ,Internship,FinTech,62.6,12.4875,3,22146.75,1,11.89,0
+STU1602,COMPUTER ENGINEERING ,4,8.57,kolkata,Open-Source Project,Manufacturing,64.5,0.4,2,7167.0,Yes,57.64,0
+STU1357,COMPUTER ENGINEERING ,4,7.48, Nagpur,Internship,AgriTech,71.7,12.4875,0,17278.0,Y,27.14,0
+STU1218,Civil Engineering,3,9.18,AHMEDABAD,Internship,EdTech,77.6,6.7,1,14227.0,yes,66.36,1
+STU1096,Civil Engineering,3,6.59,ahmedabad,Internship,FinTech,98.3,5.3,3,12222.0,Y,24.38,0
+STU1124,AI/DS,2,7.87,DELHI,Internship,FinTech,86.0,11.2,3,9960.0,0,36.3,0
+STU1634,E&TC,4,6.12,mumbai,Internship,Healthcare,71.7,2.5,2,10428.0,No,39.6,0
+STU1226,AI & DS ,3,8.45,AHMEDABAD,Internship,IT Services,91.7,0.8,2,6200.0,N,86.83,1
+STU1177,mechanical engineering,3,6.16, Mumbai,Open-Source Project,E-commerce,90.8,6.7,2,14255.0,no,29.14,0
+STU1425,AI & Data Science,3,7.04,ahmedabad,Internship,FinTech,90.3,0.6,2,13128.0,0,36.67,0
+STU1646,ai & data science,3,7.72,DELHI,Internship,Logistics,92.7,6.3,1,9640.0,Y,47.02,0
+STU1633,Civil Engineering,4,8.99,,Internship,Logistics,77.9,3.3,0,10090.0,no,51.08,0
+STU1103,Mechanical Engineering,3,7.31, Delhi,Open-Source Project,CleanTech,90.8,2.3,2,1362.0,No,41.09,0
+STU1081,computer engineering,4,6.92, Nagpur,Internship,Logistics,100.6,1.3,1,18478.0,N,73.54,1
+STU1419,Mechanical Engineering,2,7.08,Pune ,Open-Source Project,FinTech,74.3,2.5,1,12299.0,N,64.85,1
+STU1430,COMPUTER ENGINEERING ,2,9.51, Ahmedabad,Internship,CleanTech,94.4,2.7,1,11565.0,yes,96.85,1
+STU1264,CIVIL,4,8.39, Mumbai,Internship,CleanTech,64.2,0.5,2,4459.0,Y,39.48,0
+STU1375,CIVIL,4,8.41,,Internship,IT Services,58.6,1.9,3,12151.0,yes,84.04,1
+STU1337,CIVIL,2,7.63,kolkata,Internship,Gaming,90.9,0.7,2,16701.0,No,91.32,1
+STU1227,civil engineering,2,6.8,NAGPUR,Internship,Manufacturing,80.8,12.4875,1,10508.0,no,35.92,0
+STU1301,Civil Engineering,4,6.56, Nashik,Internship,AgriTech,56.6,12.4875,0,9264.0,No,0.0,0
+STU1385,information technology,3,8.63,Nashik,Internship,IT Services,65.8,1.7,0,13699.0,1,64.45,1
+STU1465,COMPUTER ENGINEERING ,2,7.44,Ahmedabad ,Internship,Gaming,52.0,8.5,1,10830.0,Y,39.01,0
+STU1263,Info Tech,4,8.48,,Internship,CleanTech,81.1,0.1,2,14461.0,No,29.49,0
+STU1595,ENTC,3,7.6,mumbai,Internship,EdTech,90.9,6.5,2,14842.0,0,53.86,0
+STU1199,Comp Engg,4,8.85,Delhi ,Internship,Healthcare,74.0,6.2,1,13286.0,Yes,54.95,0
+STU1253,computer engineering,4,8.19,NASHIK,Internship,IT Services,52.2,0.1,2,10978.0,no,37.75,0
+STU1171,COMPUTER ENGINEERING ,3,9.27,HYDERABAD,Open-Source Project,AgriTech,74.5,12.4875,0,8982.0,yes,62.79,1
+STU1237,Computer Engineering,3,7.8, Chennai,Open-Source Project,Logistics,83.5,0.7,1,15112.0,no,79.49,1
+STU1493,civil engineering,3,8.92,Ahmedabad ,Internship,AgriTech,71.7,2.5,0,14133.0,No,61.26,0
+STU1139,mechanical engineering,2,7.97,HYDERABAD,Open-Source Project,AgriTech,72.6,0.3,1,13634.0,Y,64.94,1
+STU1303,CIVIL,4,8.26,pune,Internship,IT Services,76.3,5.9,4,9624.0,No,29.26,0
+STU1267,Info Tech,4,7.65,PUNE,Internship,AgriTech,71.2,12.4875,-1,10131.0,no,38.33,0
+STU1322,Civil Engineering,2,6.23, Nashik,Internship,AgriTech,71.8,7.2,0,5898.0,Y,44.02,0
+STU1628,Info Tech,4,7.58,Hyderabad,Open-Source Project,IT Services,41.6,0.7,1,12478.0,No,54.92,0
+STU1454,E&TC,2,9.16,AHMEDABAD,Internship,IT Services,79.0,2.9,2,13031.0,no,52.66,0
+STU1212,CIVIL,4,9.74,nagpur,Internship,CleanTech,60.9,4.3,3,7234.0,Yes,14.79,0
+STU1198,Info Tech,4,8.03,kolkata,Open-Source Project,Manufacturing,70.0,7.6,0,10245.0,yes,62.0,0
+STU1355,ai & data science,3,8.29,nagpur,Open-Source Project,CleanTech,76.6,5.2,3,11565.0,No,22.99,0
+STU1484,mechanical engineering,3,8.49, Nagpur,Internship,E-commerce,52.8,7.0,2,13927.0,No,44.37,0
+STU1015,Mechanical Engineering,4,6.48,DELHI,Internship,IT Services,36.749999999999986,1.0,0,13382.0,1,70.9,1
+STU1163,Mech Engg,4,8.03,Nagpur,Open-Source Project,E-commerce,46.7,3.8,1,10287.0,Y,45.43,0
+STU1563,electronics & telecom,4,8.14,Nashik,Open-Source Project,Manufacturing,88.3,1.8,2,16229.0,Y,44.97,0
+STU1603,Info Tech,4,7.57,Nashik,Open-Source Project,EdTech,71.7,2.9,0,14282.0,Yes,39.55,0
+STU1505,AI & DS ,3,8.09,Mumbai,Open-Source Project,FinTech,86.5,5.6,3,16245.0,no,67.86,1
+STU1342,IT,4,7.81, Bangalore,Internship,Manufacturing,55.7,1.0,0,10371.0,1,56.68,0
+STU1386,mechanical engineering,2,9.98,BANGALORE,Internship,E-commerce,76.5,1.1,0,6489.0,No,81.1,1
+STU1572,IT,2,8.93, Mumbai,Internship,AgriTech,63.3,1.7,2,13109.0,no,69.37,1
+STU1206,AI & DS ,3,6.42, Nashik,Open-Source Project,E-commerce,83.7,3.9,2,11565.0,0,45.3,0
+STU1295,AI & Data Science,4,8.05,,Internship,Healthcare,79.3,2.9,0,10521.0,0,59.39,0
+STU1531,Info Tech,2,7.73, Nashik,Internship,Logistics,45.4,1.8,3,12478.0,yes,23.91,0
+STU1073,Computer Engineering,4,7.24,CHENNAI,Internship,Healthcare,71.7,1.9,2,9696.0,no,2.95,0
+STU1478,mechanical engineering,4,8.23,,Open-Source Project,Logistics,66.0,1.9,1,16840.0,Y,37.98,0
+STU1104,AI & Data Science,2,6.53,Chennai ,Internship,CleanTech,58.3,4.1,1,13941.0,0,42.65,0
+STU1437,CIVIL,3,7.8,Nagpur ,Internship,Gaming,99.1,12.4875,3,6395.0,Y,35.58,0
+STU1591,E&TC,4,9.29,DELHI,Internship,Healthcare,93.2,0.9,0,21656.0,No,90.42,1
+STU1016,computer engineering,3,7.65, Bangalore,Internship,CleanTech,76.1,2.9,4,4324.0,Y,35.06,0
+STU1091,Civil Engineering,2,7.04,BANGALORE,Internship,Logistics,92.6,8.4,2,13608.0,Y,49.32,0
+STU1088,AI & Data Science,4,8.88,Chennai ,Internship,Manufacturing,63.9,2.3,1,16206.0,no,73.25,1
+STU1509,CIVIL,2,7.78,Delhi ,Open-Source Project,E-commerce,83.7,9.1,3,5817.0,1,24.27,0
+STU1396,Mech Engg,2,6.67,HYDERABAD,Internship,E-commerce,47.9,0.3,1,15588.0,Yes,42.98,0
+STU1205,electronics & telecom,2,7.43, Bangalore,Internship,Healthcare,60.8,4.7,0,10790.0,Yes,28.2,0
+STU1102,Information Technology,4,7.98,Kolkata,Internship,E-commerce,67.8,0.9,0,11868.0,0,77.28,1
+STU1238,COMPUTER ENGINEERING ,4,8.12,Bangalore ,Open-Source Project,E-commerce,71.8,0.3,0,8094.0,0,64.55,1
+STU1451,mechanical engineering,2,7.59,BANGALORE,Internship,FinTech,83.7,12.4875,4,22146.75,no,42.62,0
+STU1246,COMPUTER ENGINEERING ,2,7.23,Kolkata ,Internship,FinTech,79.0,2.9,0,16647.0,Yes,85.48,1
+STU1637,information technology,2,7.34,kolkata,Internship,IT Services,68.5,12.4875,1,7568.0,1,51.36,0
+STU1157,E&TC,4,7.7,ahmedabad,Internship,CleanTech,62.8,1.7,2,18295.0,Yes,51.39,0
+STU1326,AI/DS,2,7.89,Kolkata,Internship,FinTech,93.2,1.7,1,15954.0,no,79.27,1
+STU1133,Electronics & Telecom,2,6.67,PUNE,Internship,AgriTech,69.5,0.3,0,19178.0,1,41.11,0
+STU1489,AI & Data Science,4,7.19,DELHI,Open-Source Project,EdTech,78.8,0.4,0,10415.0,Yes,69.15,1
+STU1548,Mech Engg,4,8.76,nashik,Internship,FinTech,79.1,10.8,0,21214.0,no,64.11,1
+STU1359,Mechanical Engineering,2,7.8,Ahmedabad,Internship,Manufacturing,75.6,6.4,1,15239.0,Yes,30.23,0
+STU1018,Civil Engineering,2,7.63,DELHI,Open-Source Project,CleanTech,74.5,0.6,2,16571.0,yes,76.16,1
+STU1429,COMPUTER ENGINEERING ,4,8.73, Nashik,Internship,E-commerce,44.4,2.4,1,8302.0,Y,39.15,0
+STU1121,civil engineering,4,8.75, Hyderabad,Internship,Manufacturing,86.9,7.4,2,11678.0,no,64.16,1
+STU1149,ENTC,3,7.18,AHMEDABAD,Internship,Healthcare,46.2,4.7,2,15041.0,N,31.31,0
+STU1274,IT,2,7.52,Hyderabad ,Internship,Gaming,58.7,6.5,2,11359.0,Y,53.39,0
+STU1299,Mech Engg,4,7.62, Ahmedabad,Internship,Healthcare,78.9,3.9,1,860.75,no,68.6,1
+STU1596,Civil Engineering,3,11.14,Hyderabad,Internship,EdTech,99.1,5.5,2,13188.0,N,62.51,1
+STU1311,AI/DS,3,8.6,Mumbai ,Internship,Logistics,71.7,4.0,0,10362.0,No,40.06,0
+STU1523,Mech Engg,3,7.99,Nashik ,Internship,Gaming,65.6,0.2,3,6202.0,No,43.09,0
+STU1556,civil engineering,4,6.44,nashik,Internship,CleanTech,52.6,0.3,1,8755.0,0,56.11,0
+STU1268,IT,4,6.97, Ahmedabad,Internship,Manufacturing,73.6,0.4,5,11565.0,Y,29.8,0
+STU1034,Mechanical Engineering,3,7.76,bangalore,Internship,Healthcare,62.0,3.1,1,11565.0,1,42.53,0
+STU1181,ai & data science,2,6.93,ahmedabad,Internship,Gaming,97.7,0.5,1,11565.0,yes,70.77,1
+STU1184,civil engineering,3,8.83,AHMEDABAD,Internship,Gaming,65.5,9.2,1,9126.0,No,7.77,0
+STU1406,electronics & telecom,4,8.11, Bangalore,Open-Source Project,Manufacturing,46.5,0.2,1,14682.0,no,44.1,0
+STU1207,ENTC,2,8.69, Mumbai,Internship,IT Services,52.4,7.0,2,4792.0,N,18.12,0
+STU1510,CIVIL,3,6.57,Bangalore ,Internship,IT Services,67.8,2.9,1,11565.0,yes,51.94,0
+STU1094,Civil Engineering,2,7.95, Bangalore,Internship,Manufacturing,82.5,2.0,2,22146.75,1,51.61,0
+STU1576,information technology,3,7.66,bangalore,Internship,Healthcare,65.1,1.4,1,11565.0,Y,38.29,0
+STU1514,computer engineering,4,6.19,HYDERABAD,Internship,EdTech,49.7,4.3,2,13601.0,yes,28.14,0
+STU1353,Mechanical Engineering,4,6.9,mumbai,Internship,AgriTech,70.5,2.8,3,11565.0,Y,18.96,0
+STU1380,AI & Data Science,2,8.51, Mumbai,Internship,Manufacturing,75.1,6.7,1,7968.0,No,52.54,0
+STU1410,Mechanical Engineering,2,9.0,BANGALORE,Internship,FinTech,79.4,0.2,3,12997.0,No,49.1,0
+STU1122,IT,3,7.41,hyderabad,Internship,Manufacturing,71.7,0.3,2,11252.0,0,46.45,0
+STU1369,Comp Engg,2,7.8,,Open-Source Project,Healthcare,71.7,2.0,1,11751.0,0,46.4,0
+STU1542,IT,2,7.32,Nashik ,Internship,IT Services,46.5,3.7,1,11993.0,N,56.32,0
+STU1546,Mechanical Engineering,2,7.23, Nashik,Open-Source Project,CleanTech,58.8,1.5,2,9099.0,yes,41.86,0
+STU1490,COMPUTER ENGINEERING ,4,8.61,Delhi,Internship,Gaming,76.8,1.6,3,5118.0,Y,57.19,0
+STU1364,AI & Data Science,3,7.8,Bangalore,Open-Source Project,FinTech,56.1,5.4,2,6013.0,0,44.99,0
+STU1078,Mechanical Engineering,3,7.82,Mumbai ,Internship,Healthcare,71.9,1.1,0,11565.0,0,51.54,0
+STU1350,ENTC,3,8.58,Hyderabad,Open-Source Project,AgriTech,78.7,0.8,4,17838.0,0,61.73,0
+STU1061,Mechanical Engineering,4,9.45, Delhi,Internship,Healthcare,68.9,6.7,1,10871.0,N,62.14,0
+STU1251,ai & data science,4,8.24,Kolkata,Open-Source Project,AgriTech,65.0,0.8,2,10385.0,yes,57.22,0
+STU1125,Info Tech,3,5.56, Pune,Internship,FinTech,63.3,2.2,1,17813.0,1,39.57,0
+STU1532,Computer Engineering,3,7.09,hyderabad,Internship,Healthcare,71.5,0.0,2,1436.0,No,38.84,0
+STU1530,CIVIL,2,9.69,,Internship,Manufacturing,78.9,0.2,3,11634.0,N,73.1,1
+STU1347,Civil Engineering,2,8.87,ahmedabad,Open-Source Project,E-commerce,71.6,1.3,1,16210.0,N,97.71,1
+STU1553,ENTC,3,7.54, Bangalore,Internship,E-commerce,78.0,0.9,1,18489.0,0,51.09,0
+STU1611,mechanical engineering,2,8.14,nagpur,Internship,Gaming,36.749999999999986,0.3,0,9480.0,1,60.19,0
+STU1416,Mechanical Engineering,2,8.27,NASHIK,Open-Source Project,CleanTech,90.0,4.8,4,7587.0,Y,38.83,0
+STU1477,Mechanical Engineering,2,8.7,,Internship,E-commerce,44.0,12.4875,1,17979.0,1,51.35,0
+STU1622,CIVIL,2,7.54,KOLKATA,Internship,EdTech,64.6,5.9,2,11764.0,N,48.61,0
+STU1067,Computer Engineering,3,9.1,Pune,Internship,AgriTech,66.0,2.9,2,14870.0,yes,72.41,1
+STU1024,Civil Engineering,2,8.0,Nashik,Internship,IT Services,82.7,0.0,0,12699.0,yes,29.6,0
+STU1077,Electronics & Telecom,4,8.71,Ahmedabad ,Internship,Healthcare,54.4,1.3,2,11238.0,1,42.33,0
+STU1105,ENTC,3,7.1, Hyderabad,Internship,Gaming,80.8,0.1,0,7483.0,No,47.44,0
+STU1519,IT,3,6.77, Hyderabad,Internship,Healthcare,77.6,7.1,0,17956.0,0,53.18,0
+STU1126,Info Tech,2,6.59, Nashik,Open-Source Project,Healthcare,56.2,1.4,1,4265.0,1,31.1,0
+STU1601,ENTC,4,7.98, Chennai,Open-Source Project,Manufacturing,64.8,6.8,2,11565.0,N,33.82,0
+STU1334,Mechanical Engineering,2,6.52,Hyderabad,Internship,EdTech,66.0,0.2,4,5607.0,no,42.04,0
+STU1500,computer engineering,4,8.01,Delhi,Open-Source Project,EdTech,79.7,0.4,3,6809.0,0,77.88,1
+STU1178,Comp Engg,2,7.57,MUMBAI,Internship,CleanTech,75.9,10.5,0,11244.0,Y,8.39,0
+STU1314,Computer Engineering,4,8.57,Delhi,Internship,EdTech,67.9,1.9,1,11737.0,N,55.1,0
+STU1620,electronics & telecom,3,7.44, Delhi,Internship,FinTech,58.5,0.9,3,11565.0,no,46.2,0
+STU1135,information technology,4,8.22, Hyderabad,Internship,EdTech,78.9,7.6,5,16434.0,Y,35.93,0
+STU1223,information technology,4,7.82,PUNE,Open-Source Project,Logistics,104.5,2.8,1,16301.0,N,65.02,1
+STU1517,Civil Engineering,3,7.19,Delhi,Open-Source Project,EdTech,73.2,1.7,2,16107.0,yes,32.36,0
+STU1623,Civil Engineering,4,7.35,nagpur,Internship,E-commerce,82.9,2.0,1,12319.0,Y,45.08,0
+STU1561,ENTC,2,7.87,Nagpur ,Open-Source Project,EdTech,66.9,7.6,1,19226.0,yes,62.15,0
+STU1093,information technology,4,6.97,Hyderabad,Internship,FinTech,90.8,3.1,1,16034.0,yes,75.83,1
+STU1363,Mech Engg,2,7.35, Chennai,Internship,AgriTech,55.5,2.3,1,8171.0,No,47.67,0
+STU1412,COMPUTER ENGINEERING ,4,7.61,Bangalore,Internship,IT Services,78.4,3.0,0,16473.0,Yes,52.35,0
+STU1069,ai & data science,2,6.5,CHENNAI,Internship,IT Services,75.5,0.8,2,8240.0,yes,47.52,0
+STU1036,AI & DS ,2,9.95,mumbai,Open-Source Project,Healthcare,97.7,4.1,3,9352.0,yes,59.22,0
+STU1160,ai & data science,4,8.09,Nashik ,Open-Source Project,E-commerce,65.6,2.7,1,15086.0,Y,65.0,1
+STU1362,Civil Engineering,3,7.8,nashik,Internship,FinTech,67.6,1.9,4,18081.0,no,45.69,0
+STU1011,Civil Engineering,3,8.52,Kolkata,Internship,Manufacturing,69.5,3.0,1,18258.0,1,52.99,0
+STU1144,mechanical engineering,2,7.8,ahmedabad,Internship,E-commerce,73.7,9.0,1,12296.0,no,50.43,0
+STU1405,information technology,3,7.32,kolkata,Internship,IT Services,63.1,1.2,0,11734.0,no,40.32,0
+STU1562,AI/DS,4,6.59,NASHIK,Internship,CleanTech,73.2,5.1,2,13515.0,Y,54.46,0
+STU1427,Mechanical Engineering,4,5.71,Nagpur,Internship,Logistics,97.5,6.0,2,15256.0,1,63.5,1
+STU1127,civil engineering,3,6.71, Kolkata,Internship,Healthcare,84.8,11.6,2,11144.0,No,19.28,0
+STU1499,ai & data science,3,8.86, Nagpur,Internship,FinTech,40.4,0.6,0,14834.0,no,66.19,1
+STU1302,Civil Engineering,4,8.66,DELHI,Internship,CleanTech,77.7,1.4,0,14900.0,no,56.73,0
+STU1009,Info Tech,4,7.52,Ahmedabad,Internship,AgriTech,47.4,0.3,1,16398.0,1,67.47,1
+STU1580,COMPUTER ENGINEERING ,3,9.1,PUNE,Internship,Healthcare,70.2,5.4,1,8574.0,Y,69.46,1
+STU1624,Comp Engg,4,6.81, Mumbai,Open-Source Project,IT Services,91.3,11.1,1,16070.0,No,44.52,0
+STU1492,Computer Engineering,4,8.06,Ahmedabad,Internship,Healthcare,55.2,7.6,0,8612.0,1,61.91,0
+STU1231,mechanical engineering,2,8.98,PUNE,Internship,Logistics,67.4,6.1,3,10187.0,yes,38.18,0
+STU1210,COMPUTER ENGINEERING ,3,7.4,delhi,Internship,Manufacturing,71.7,5.3,1,8500.0,1,38.73,0
+STU1128,Info Tech,4,8.85,Bangalore ,Internship,Gaming,94.3,2.9,1,9507.0,N,59.46,0
+STU1143,E&TC,3,7.29,Hyderabad,Internship,CleanTech,66.7,11.5,2,7412.0,No,28.98,0
+STU1241,Electronics & Telecom,3,7.88,Hyderabad ,Internship,FinTech,46.6,5.2,2,9883.0,1,32.82,0
+STU1007,civil engineering,2,6.38,Pune ,Internship,E-commerce,63.1,1.3,1,16228.0,Yes,52.22,0
+STU1298,Mechanical Engineering,4,8.17,Bangalore,Internship,Healthcare,92.4,12.4875,0,22146.75,1,52.87,0
+STU1310,civil engineering,3,8.53,KOLKATA,Internship,Logistics,55.4,6.9,3,9044.0,yes,47.17,0
+STU1435,civil engineering,4,8.91,Nashik ,Internship,Gaming,67.9,1.7,0,7264.0,yes,79.06,1
+STU1254,AI & DS ,4,7.97,Ahmedabad ,Internship,AgriTech,64.7,0.8,4,17268.0,no,37.73,0
+STU1428,computer engineering,4,6.73,kolkata,Internship,AgriTech,62.5,2.7,2,10302.0,No,20.32,0
+STU1614,AI & DS ,3,11.68,Mumbai ,Internship,EdTech,97.7,1.6,1,8875.0,0,95.73,1
+STU1008,IT,4,7.19,KOLKATA,Internship,IT Services,79.2,0.0,4,8643.0,Y,58.9,0
+STU1156,information technology,4,7.83,Nagpur,Open-Source Project,Gaming,71.8,0.9,1,16364.0,No,58.89,0
+STU1506,Information Technology,2,9.68, Mumbai,Open-Source Project,Manufacturing,54.8,7.6,0,11784.0,no,38.76,0
+STU1436,electronics & telecom,3,6.96,KOLKATA,Internship,E-commerce,60.0,1.1,2,9572.0,1,47.21,0
+STU1266,AI/DS,4,8.19,Ahmedabad ,Internship,AgriTech,83.5,3.6,1,11582.0,No,82.84,1
+STU1461,Mech Engg,4,6.92,MUMBAI,Open-Source Project,AgriTech,95.9,0.3,1,13996.0,1,37.31,0
+STU1338,Comp Engg,2,6.67,Mumbai,Internship,IT Services,79.1,1.6,2,10253.0,yes,55.24,0
+STU1255,Civil Engineering,3,7.8,NASHIK,Internship,Gaming,71.7,7.0,1,3039.0,Y,40.02,0
+STU1539,AI & Data Science,3,6.74,Delhi,Open-Source Project,FinTech,36.749999999999986,1.8,2,11565.0,No,21.56,0
+STU1567,Mech Engg,3,7.29,MUMBAI,Internship,CleanTech,45.4,6.1,0,4854.0,No,47.23,0
+STU1208,COMPUTER ENGINEERING ,3,7.45,Chennai ,Internship,EdTech,69.8,1.2,1,6084.0,1,33.36,0
+STU1287,IT,2,7.38,HYDERABAD,Internship,FinTech,62.9,2.8,2,11942.0,No,49.74,0
+STU1341,Civil Engineering,3,8.51,DELHI,Internship,CleanTech,90.7,1.1,0,7020.0,1,90.09,1
+STU1269,ENTC,3,7.18,Chennai ,Internship,IT Services,77.7,8.9,2,17494.0,yes,46.49,0
+STU1265,information technology,3,7.53,hyderabad,Open-Source Project,Gaming,54.2,5.4,0,7728.0,No,34.25,0
+STU1544,Computer Engineering,3,7.8,NAGPUR,Internship,EdTech,87.9,2.9,1,15744.0,Yes,37.66,0
+STU1547,E&TC,2,7.98,Nagpur,Internship,IT Services,71.1,1.0,1,6825.0,no,37.54,0
+STU1095,ENTC,3,11.57,MUMBAI,Open-Source Project,Gaming,71.6,4.8,2,14903.0,1,42.23,0
+STU1642,E&TC,3,8.52,bangalore,Internship,Logistics,42.1,9.6,0,12181.0,Yes,67.56,1
+STU1042,AI & DS ,3,7.85,kolkata,Internship,FinTech,104.95,7.8,1,12796.0,0,57.44,0
+STU1538,CIVIL,3,6.93,Hyderabad,Internship,Logistics,94.4,0.6,0,9672.0,Yes,51.09,0
+STU1589,AI/DS,2,7.62, Chennai,Internship,Gaming,62.0,9.7,0,10943.0,Y,26.92,0
+STU1045,civil engineering,3,7.99,pune,Internship,CleanTech,61.2,0.5,5,15398.0,yes,22.58,0
+STU1161,Electronics & Telecom,3,5.24,nashik,Internship,Gaming,52.7,2.0,2,13276.0,0,27.7,0
+STU1288,civil engineering,2,6.81,pune,Internship,Healthcare,64.6,0.1,2,11626.0,No,28.13,0
+STU1594,AI & Data Science,3,8.43,NASHIK,Internship,Healthcare,66.2,3.4,2,16604.0,No,78.24,1
+STU1631,civil engineering,3,8.24,Ahmedabad ,Internship,E-commerce,75.7,2.4,1,13246.0,no,49.93,0
+STU1315,COMPUTER ENGINEERING ,3,9.58,,Internship,AgriTech,91.3,0.0,0,15704.0,1,71.89,1
+STU1230,information technology,3,9.48, Mumbai,Internship,Manufacturing,98.3,3.7,2,22146.75,no,77.91,1
+STU1638,Civil Engineering,4,7.66,Ahmedabad ,Internship,IT Services,71.7,3.1,1,16389.0,yes,78.28,1
+STU1076,ai & data science,3,9.32,nashik,Internship,EdTech,83.2,6.2,1,21497.0,yes,87.55,1
+STU1645,AI & DS ,3,8.18,BANGALORE,Internship,Logistics,89.3,0.7,1,9560.0,Y,58.62,0
+STU1247,Mech Engg,3,7.11, Nashik,Open-Source Project,Logistics,74.8,8.5,-1,10990.0,no,58.28,0
+STU1476,ENTC,3,10.73,Nashik ,Open-Source Project,Logistics,68.8,3.5,0,9293.0,Y,74.67,1
+STU1085,Civil Engineering,4,7.8, Ahmedabad,Open-Source Project,Manufacturing,75.6,11.1,0,9584.0,1,56.5,0
+STU1469,Civil Engineering,3,8.9,Ahmedabad,Internship,Logistics,80.1,1.6,0,4941.0,N,71.03,1
+STU1225,Electronics & Telecom,2,7.78,KOLKATA,Internship,Manufacturing,66.9,6.4,0,8597.0,No,38.13,0
+STU1331,Mech Engg,3,8.56,Bangalore,Internship,IT Services,66.5,2.5,2,13865.0,0,36.0,0
+STU1233,AI/DS,4,8.37, Mumbai,Internship,Gaming,72.8,2.2,2,11565.0,yes,57.3,0
+STU1475,Comp Engg,4,7.34,BANGALORE,Open-Source Project,EdTech,67.9,0.2,0,14958.0,1,45.37,0
+STU1593,Comp Engg,2,6.3,PUNE,Internship,IT Services,71.7,2.2,2,12702.0,No,64.1,1
+STU1421,civil engineering,2,7.64,MUMBAI,Open-Source Project,IT Services,67.3,1.3,0,5805.0,0,57.71,0
+STU1182,information technology,4,9.06,Pune ,Internship,AgriTech,68.9,3.2,0,22146.75,Yes,56.68,0
+STU1332,AI & Data Science,2,6.82,DELHI,Internship,CleanTech,67.7,12.4875,1,20094.0,0,35.11,0
+STU1438,Mech Engg,2,7.26,chennai,Internship,Logistics,53.3,2.9,3,3663.0,Yes,24.06,0
+STU1049,CIVIL,4,7.8,delhi,Internship,Logistics,98.7,2.4,1,16260.0,Yes,66.53,1
+STU1005,Info Tech,4,7.8, Ahmedabad,Internship,EdTech,82.3,1.5,2,7116.0,yes,67.42,1
+STU1529,AI/DS,2,7.81,Nagpur ,Internship,Gaming,95.4,8.4,2,19589.0,1,34.37,0
+STU1234,information technology,3,7.47,CHENNAI,Internship,Manufacturing,86.3,3.4,1,6356.0,Yes,28.0,0
+STU1486,mechanical engineering,4,8.6, Pune,Internship,IT Services,97.4,8.0,1,6743.0,yes,63.46,1
+STU1599,Computer Engineering,2,7.67,Bangalore ,Internship,Healthcare,84.4,3.2,0,13849.0,N,62.61,1
+STU1497,information technology,3,8.73,ahmedabad,Internship,Manufacturing,79.0,2.9,3,13192.0,Yes,56.04,0
+STU1106,Info Tech,4,8.25,Mumbai,Internship,AgriTech,54.2,1.1,0,15255.0,yes,67.79,1
+STU1443,Electronics & Telecom,2,7.98,DELHI,Internship,FinTech,93.7,1.5,4,15941.0,No,50.92,0
+STU1488,AI & DS ,4,8.64,CHENNAI,Open-Source Project,Healthcare,78.1,3.2,1,8190.0,1,71.35,1
+STU1012,IT,2,7.88, Kolkata,Internship,Manufacturing,65.5,1.5,2,17911.0,yes,41.23,0
+STU1190,computer engineering,3,7.22,Nashik ,Open-Source Project,Healthcare,51.6,0.3,1,9512.0,1,48.81,0
+STU1282,computer engineering,2,6.04,Ahmedabad,Open-Source Project,Healthcare,81.0,5.2,3,7225.0,No,21.55,0
+STU1029,COMPUTER ENGINEERING ,4,8.23,Nashik,Internship,AgriTech,68.1,12.4875,3,14961.0,N,17.76,0
+STU1169,IT,4,9.52,Delhi ,Internship,CleanTech,78.2,7.3,3,8331.0,N,57.26,0
+STU1180,Computer Engineering,3,9.16,hyderabad,Internship,IT Services,81.6,1.3,1,14200.0,1,78.13,1
+STU1100,information technology,4,8.77,pune,Internship,Healthcare,42.3,4.0,0,7931.0,yes,23.09,0
+STU1197,Info Tech,3,7.0,BANGALORE,Internship,Logistics,42.5,2.0,2,14031.0,yes,22.19,0
+STU1495,Info Tech,4,6.67,Hyderabad,Internship,IT Services,94.3,2.8,0,11565.0,N,67.05,1
+STU1648,ENTC,4,8.77,Nashik,Internship,FinTech,73.2,0.6,3,8971.0,1,68.34,1
+STU1373,mechanical engineering,2,7.18,Nashik,Open-Source Project,CleanTech,95.6,3.7,1,10796.0,1,49.4,0
+STU1590,AI & Data Science,3,7.47,Nashik,Open-Source Project,IT Services,59.1,10.4,0,13278.0,No,41.65,0
+STU1460,COMPUTER ENGINEERING ,4,8.1, Chennai,Internship,FinTech,99.4,0.1,1,13814.0,No,51.62,0
+STU1413,COMPUTER ENGINEERING ,4,8.29,ahmedabad,Internship,Healthcare,71.7,2.4,2,12494.0,Yes,90.74,1
+STU1131,AI & DS ,3,6.44,Hyderabad ,Internship,AgriTech,57.4,8.4,1,12658.0,No,42.79,0
+STU1039,AI/DS,3,8.73,Ahmedabad,Open-Source Project,Manufacturing,71.7,5.7,0,6880.0,yes,71.59,1
+STU1434,ai & data science,3,7.19,HYDERABAD,Internship,AgriTech,59.8,8.3,1,14139.0,N,51.2,0
+STU1215,COMPUTER ENGINEERING ,2,7.41,delhi,Internship,Logistics,87.8,1.2,0,14875.0,No,82.14,1
+STU1555,Computer Engineering,4,7.23,Pune ,Internship,Logistics,90.1,9.1,1,11565.0,No,58.83,0
+STU1566,Info Tech,3,8.05,pune,Open-Source Project,Logistics,38.0,2.9,3,12859.0,No,30.47,0
+STU1474,Computer Engineering,3,8.74,Mumbai ,Open-Source Project,E-commerce,94.8,0.7,1,10505.0,Yes,81.97,1
+STU1456,computer engineering,2,7.8,Hyderabad ,Internship,AgriTech,98.3,1.0,1,4537.0,no,64.81,1
+STU1260,ai & data science,2,8.26,Ahmedabad ,Internship,Gaming,72.7,8.2,3,13090.0,Y,60.08,0
+STU1035,civil engineering,2,8.78,Pune,Open-Source Project,EdTech,93.4,1.0,1,12514.0,0,60.83,0
+STU1309,Comp Engg,4,8.1,Nashik,Internship,EdTech,36.749999999999986,3.5,1,12735.0,0,36.45,0
+STU1276,civil engineering,4,7.16, Pune,Internship,Logistics,47.3,2.2,3,15684.0,Yes,46.3,0
+STU1393,Info Tech,2,9.09,MUMBAI,Internship,CleanTech,58.0,2.0,2,11745.0,1,72.24,1
+STU1107,Civil Engineering,4,6.95,HYDERABAD,Internship,Gaming,64.6,4.4,0,16637.0,0,56.36,0
+STU1629,AI & Data Science,4,7.23,bangalore,Open-Source Project,EdTech,74.6,4.4,2,7617.0,No,33.62,0
+STU1524,ai & data science,4,8.94,NAGPUR,Internship,AgriTech,73.2,4.0,2,12207.0,1,53.85,0
+STU1047,COMPUTER ENGINEERING ,4,8.85,Bangalore ,Internship,Gaming,66.7,5.6,1,16395.0,Yes,50.66,0
+STU1203,information technology,3,7.67,NASHIK,Internship,Logistics,78.1,4.2,0,6870.0,0,85.14,1
+STU1616,mechanical engineering,3,9.26,nashik,Internship,E-commerce,68.3,1.3,2,15494.0,no,74.4,1
+STU1021,information technology,3,7.86,nashik,Internship,FinTech,78.0,2.9,1,8341.0,N,74.55,1
+STU1402,COMPUTER ENGINEERING ,2,7.8,delhi,Internship,IT Services,92.8,6.9,2,7632.0,1,54.19,0
+STU1083,CIVIL,3,8.52,nashik,Open-Source Project,AgriTech,69.0,3.0,0,7155.0,Y,52.51,0
+STU1130,ai & data science,3,8.52,delhi,Internship,CleanTech,85.7,0.7,1,12811.0,yes,85.15,1
+STU1415,CIVIL,3,6.88,bangalore,Internship,E-commerce,78.4,2.4,2,8480.0,N,71.03,1
+STU1286,E&TC,2,6.28,hyderabad,Internship,CleanTech,57.9,4.5,1,19565.0,0,53.32,0
+STU1123,CIVIL,3,7.4,KOLKATA,Internship,Healthcare,60.2,3.9,2,16174.0,yes,45.01,0
+STU1033,E&TC,4,8.69,nashik,Open-Source Project,CleanTech,65.3,1.9,0,11565.0,1,80.03,1
+STU1516,computer engineering,2,6.79,MUMBAI,Internship,EdTech,64.6,5.3,0,12323.0,no,44.23,0
+STU1019,Computer Engineering,2,8.48,Bangalore ,Internship,Healthcare,58.0,4.0,2,17536.0,0,61.96,0
+STU1617,Mech Engg,3,7.77,AHMEDABAD,Open-Source Project,Gaming,45.8,1.7,3,13198.0,no,28.25,0
+STU1219,COMPUTER ENGINEERING ,2,7.61,Pune ,Internship,FinTech,54.3,2.3,2,11565.0,No,29.93,0
+STU1481,E&TC,3,7.46,mumbai,Internship,CleanTech,71.7,0.7,3,2518.0,0,49.84,0
+STU1356,ENTC,2,8.43,NAGPUR,Open-Source Project,E-commerce,82.7,1.9,0,5928.0,1,70.83,1
+STU1224,civil engineering,3,8.1,Hyderabad ,Internship,AgriTech,83.5,5.7,0,10998.0,No,89.57,1
+STU1092,ai & data science,4,7.56, Nagpur,Internship,Gaming,55.3,6.4,0,15027.0,Y,46.19,0
+STU1151,ENTC,4,7.78,,Open-Source Project,IT Services,66.7,1.6,1,12107.0,yes,56.08,0
+STU1317,CIVIL,3,7.54,BANGALORE,Open-Source Project,AgriTech,67.9,12.4875,1,10199.0,Yes,21.36,0
+STU1448,civil engineering,2,7.8,Hyderabad ,Internship,IT Services,53.2,2.9,4,7582.0,Y,4.17,0
+STU1522,electronics & telecom,4,7.19,hyderabad,Internship,AgriTech,64.0,2.3,2,15362.0,1,21.56,0
+STU1279,Mechanical Engineering,4,6.91,kolkata,Open-Source Project,Logistics,77.7,4.4,2,11326.0,Yes,52.3,0
+STU1583,E&TC,4,7.96,Kolkata ,Internship,FinTech,88.0,0.9,0,6095.0,No,49.77,0
+STU1604,Information Technology,2,8.37,BANGALORE,Open-Source Project,FinTech,41.8,12.4875,3,12197.0,no,40.42,0
+STU1349,Mechanical Engineering,2,6.82,Kolkata ,Internship,Logistics,88.3,2.9,1,15282.0,Yes,79.07,1
+STU1374,ENTC,4,8.17,Ahmedabad ,Internship,Manufacturing,76.8,6.9,2,17668.0,N,47.59,0
+STU1400,COMPUTER ENGINEERING ,4,9.48,Chennai ,Internship,Healthcare,86.6,0.7,2,9478.0,no,90.57,1
+STU1257,Comp Engg,4,8.92,Delhi ,Open-Source Project,AgriTech,76.1,4.0,0,11903.0,yes,69.76,1
+STU1072,civil engineering,3,7.17,Hyderabad ,Internship,Logistics,73.2,8.3,1,15405.0,Y,63.38,1
+STU1195,IT,4,7.52,MUMBAI,Internship,CleanTech,71.1,7.4,2,15120.0,yes,40.88,0
+STU1483,computer engineering,3,7.43, Mumbai,Internship,CleanTech,77.9,1.2,3,11565.0,yes,62.04,0
+STU1137,computer engineering,3,8.16,Bangalore ,Internship,AgriTech,72.9,4.0,1,12185.0,Yes,42.73,0
+STU1494,computer engineering,2,6.84,Delhi ,Internship,FinTech,98.7,3.2,0,16029.0,no,76.28,1
+STU1550,mechanical engineering,4,7.55,Bangalore ,Internship,Logistics,76.8,1.0,0,12000.0,no,57.33,0
+STU1201,Information Technology,4,7.8,NAGPUR,Internship,E-commerce,70.2,2.0,0,6752.0,0,56.61,0
+STU1312,Information Technology,4,7.24, Bangalore,Internship,CleanTech,70.2,1.3,1,15300.0,1,65.64,1
+STU1290,Mech Engg,3,8.28,Ahmedabad ,Internship,CleanTech,39.4,0.7,3,4795.0,No,38.17,0
+STU1189,IT,3,7.8,Nagpur ,Internship,IT Services,64.3,0.4,1,11185.0,N,55.13,0
+STU1112,COMPUTER ENGINEERING ,2,7.98, Pune,Internship,Manufacturing,55.3,1.3,3,18482.0,N,57.28,0
+STU1183,Info Tech,3,7.93,,Internship,EdTech,70.7,1.0,0,12162.0,N,75.61,1
+STU1152,Mechanical Engineering,3,6.9,Nashik ,Internship,Logistics,65.8,3.4,2,17597.0,N,26.13,0
+STU1325,Computer Engineering,3,8.45,delhi,Internship,Healthcare,66.4,1.2,0,12768.0,1,73.27,1
+STU1044,information technology,3,7.66, Nagpur,Open-Source Project,Gaming,78.8,12.4875,1,11565.0,Yes,53.02,0
+STU1444,Mechanical Engineering,2,8.69,delhi,Internship,IT Services,85.6,3.9,2,11565.0,1,47.53,0
+STU1006,Civil Engineering,4,8.0,Nashik ,Internship,Logistics,83.2,10.2,0,7963.0,Yes,58.53,0
+STU1250,IT,4,6.7,Delhi,Open-Source Project,Manufacturing,71.8,4.8,2,10937.0,yes,22.27,0
+STU1075,AI & Data Science,2,5.59,Nagpur,Open-Source Project,IT Services,58.7,0.1,1,6310.0,no,61.36,0
+STU1512,Mech Engg,3,8.0,Chennai,Internship,CleanTech,55.3,12.4875,1,12314.0,Y,33.61,0
+STU1391,ENTC,2,8.03,Nashik,Internship,Logistics,104.95,4.0,1,7552.0,0,63.42,1
+STU1432,Comp Engg,2,7.31,Hyderabad ,Open-Source Project,Manufacturing,82.5,10.5,2,16871.0,0,61.05,0
+STU1068,ai & data science,4,7.79,Mumbai,Internship,Manufacturing,81.9,1.2,2,16490.0,no,57.15,0
+STU1167,Mech Engg,4,8.21,AHMEDABAD,Internship,Healthcare,85.0,2.7,1,860.75,1,65.2,1
+STU1554,Information Technology,3,8.96,DELHI,Internship,Manufacturing,81.5,1.1,1,14385.0,N,53.91,0
+STU1366,Electronics & Telecom,2,7.72,Nashik,Internship,FinTech,72.8,0.4,3,11565.0,no,40.63,0
+STU1345,Electronics & Telecom,3,8.13, Hyderabad,Open-Source Project,Logistics,64.5,0.3,0,13775.0,Y,44.4,0
+STU1584,AI & Data Science,4,8.86,Kolkata ,Internship,E-commerce,77.2,0.3,1,11565.0,no,63.64,1
+STU1535,AI/DS,4,6.62, Pune,Open-Source Project,EdTech,70.7,2.9,1,12204.0,0,64.32,1
+STU1398,AI & Data Science,4,9.06,Ahmedabad ,Internship,IT Services,76.2,5.6,2,16296.0,no,60.53,0
+STU1185,information technology,4,8.61, Delhi,Internship,Gaming,97.3,0.4,2,8687.0,Yes,78.57,1
+STU1348,mechanical engineering,2,8.42,nashik,Internship,Manufacturing,71.7,0.2,1,7651.0,No,45.4,0
+STU1615,Info Tech,4,7.57, Nagpur,Internship,IT Services,74.2,4.8,1,16064.0,No,42.05,0
+STU1211,ENTC,4,5.75,Hyderabad,Open-Source Project,AgriTech,60.0,4.7,1,11565.0,Yes,31.2,0
+STU1579,Computer Engineering,3,6.89,Nashik,Internship,FinTech,84.0,0.7,1,3066.0,1,61.77,0
+STU1502,AI/DS,3,9.08,Mumbai ,Open-Source Project,AgriTech,46.2,2.0,1,9489.0,no,58.31,0
+STU1537,computer engineering,4,8.23,Chennai,Internship,Logistics,72.4,0.6,2,10535.0,yes,55.39,0
+STU1196,ai & data science,4,7.92,Nagpur,Internship,Logistics,71.7,6.1,1,7717.0,Y,58.25,0
+STU1175,E&TC,2,6.61,,Internship,EdTech,72.5,12.4875,2,9199.0,yes,26.94,0
